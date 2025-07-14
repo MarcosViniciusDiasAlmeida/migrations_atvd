@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "migrations_atvd", "migrations_atvd.csproj", "{240397C5-DE79-DE40-7D3E-F5016B910141}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{240397C5-DE79-DE40-7D3E-F5016B910141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{240397C5-DE79-DE40-7D3E-F5016B910141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{240397C5-DE79-DE40-7D3E-F5016B910141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{240397C5-DE79-DE40-7D3E-F5016B910141}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA0A0B61-5E6E-46ED-A89A-286549BE6E12}
+	EndGlobalSection
+EndGlobal
